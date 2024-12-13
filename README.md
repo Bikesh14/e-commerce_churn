@@ -9,7 +9,6 @@ The dataset is sourced from Kaggle and provides detailed customer data from an e
 ## Project Structure
 - `dataset/`: Folder containing the dataset file.
 - `customer_churn.ipynb`: Jupyter notebook with the complete analysis and modeling.
-- `README.md`: This file, providing project details and setup instructions.
 
 ## Libraries Used
 This project utilizes Python with several libraries:
